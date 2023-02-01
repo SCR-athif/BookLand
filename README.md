@@ -23,7 +23,7 @@ go to /admin directory then enter following username and password admin:password
 
     python manage.py createsuperuser
     
-default admin : 'scr007:Athif@321'
+**Default admin : 'scr007:Athif@321'**
 
 ### Now the webpage is ready to go you can manage database through admin panel and make changes is html code will reflect the changes by a simple refresh.
 
